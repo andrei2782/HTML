@@ -1,0 +1,53 @@
+ body {
+    width: 900px;
+    margin: auto;
+
+}
+
+div {
+    text-align: center;
+    color:#fff;
+}
+
+.box {
+    background: #dba634;
+    height: 40px;
+    width: 100px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.box:hover {
+    background: blue;
+}
+
+aside {
+    background: red;
+    height: 400px;
+    width: 15%;
+    float: left;
+}
+
+article {
+    width: 85%;
+    height:400px;
+    background: paleturquoise;
+    float:right;
+}
+
+footer{
+    text-size: 10px;
+    background: silver;
+}
+
+iframe {
+    padding-top: 40px;
+    padding-left: 100px;
+
+}
+
+div.conteneur {
+    text-align: center;
+    color: #fff;
+    background-color: #3445db;
+}
